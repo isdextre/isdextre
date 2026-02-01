@@ -1,16 +1,21 @@
-## Hi there 👋
+<base href="https://portal.uni.edu.pe/" />
 
-<!--
-**isdextre/isdextre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>
+  Hi, I'm Sofia!
+  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+</h2>
 
-Here are some ideas to get you started:
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <em>
+    Statistical engineering student at 
+    <a href="/">Universidad Nacional de Ingeniería</a>
+  </em>
+</p>
+
+
+
+- 🌱 Developing my foundation in statistics & data science
+- 🧠 Interested in applied mathematics and statistical modeling
+- 📚 I’ll be gradually uploading notes and projects
